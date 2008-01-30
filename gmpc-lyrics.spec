@@ -9,6 +9,7 @@ Source0:	http://download.sarine.nl/download/gmpc-0.15.5/%{name}-%{version}.tar.b
 BuildRequires:	libmpd-devel
 BuildRequires:	libxml2-devel
 BuildRequires:	libglade2.0-devel
+BuildRequires:	libcurl-devel
 BuildRequires:	gmpc-devel
 Requires:	gmpc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
