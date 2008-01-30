@@ -14,7 +14,7 @@ Requires:	gmpc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
-A lyrics provider plugin for gmpc
+A lyrics provider plugin for gmpc.
 
 %prep
 %setup -q
