@@ -35,5 +35,5 @@ A lyrics provider plugin for gmpc.
 
 %files
 %defattr(-,root,root)
-%{_datadir}/gmpc/plugins/lyricsplugin.la
-%{_datadir}/gmpc/plugins/lyricsplugin.so
+%{_libdir}/gmpc/plugins/lyricsplugin.la
+%{_libdir}/gmpc/plugins/lyricsplugin.so
