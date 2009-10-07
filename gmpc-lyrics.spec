@@ -1,7 +1,7 @@
 Summary:	A lyrics provider plugin for gmpc
 Name:		gmpc-lyrics
 Version:	0.18.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl//gmpc-plugins-lyrics-provider
