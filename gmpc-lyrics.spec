@@ -1,11 +1,11 @@
 Summary:	A lyrics provider plugin for gmpc
 Name:		gmpc-lyrics
-Version:	0.20.0
-Release:	3
+Version:	11.8.16
+Release:	1
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl//gmpc-plugins-lyrics-provider
-Source0:	http://download.sarine.nl/Programs/gmpc/%{version}/%{name}-%{version}.tar.gz
+Source0:	http://download.sarine.nl/Programs/gmpc/11.8.16/%{name}-%{version}.tar.gz
 BuildRequires:	libmpd-devel >= 0.14.99
 BuildRequires:	libxml2-devel
 BuildRequires:	gmpc-devel >= 0.15.4.102
@@ -77,4 +77,5 @@ A lyrics provider plugin for gmpc.
 - add spec file
 - add source
 - Created package structure for gmpc-lyrics.
+
 
