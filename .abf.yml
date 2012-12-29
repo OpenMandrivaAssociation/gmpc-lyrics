@@ -1,2 +1,4 @@
+removed_sources:
+  gmpc-lyrics-0.20.0.tar.gz: 292a4c608f6e83a88f27622b7ff523e6add1e5b3
 sources:
-  "gmpc-lyrics-0.20.0.tar.gz": 292a4c608f6e83a88f27622b7ff523e6add1e5b3
+  gmpc-lyrics-11.8.16.tar.gz: d121251e820a173d29793461ba04d1725581c395
