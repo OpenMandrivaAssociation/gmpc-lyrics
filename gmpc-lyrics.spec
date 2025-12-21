@@ -6,6 +6,11 @@ License:	GPLv2+
 Group:		Sound
 Url:		https://www.sarine.nl//gmpc-plugins-lyrics-provider
 Source0:	http://download.sarine.nl/Programs/gmpc/11.8.16/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libmpd-devel >= 0.14.99
 BuildRequires:	libxml2-devel
 BuildRequires:	gmpc-devel >= 0.15.4.102
